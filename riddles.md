@@ -1,92 +1,63 @@
 ### 1
 You eat something you neither plant nor plow.
 It is the son of water, but if water touches it, it dies.
-**salt/ice**
+
+*Salt/ice*
 
 ### 2
 My tines are long.  My tines are short. My tines end ere. My first report.
-**Lightning Bolt**
+
+*Lightning Bolt*
 
 ### 3
 Turn us on our backs. And open up our stomachs. You will be the wisest of men. Though at start a lummox.
-**Books**
+
+*Books*
 
 ### 4
 Bury it deep, Pile on stones. Yet I will Dig up the bones.
-**memories**
 
-Entry:  1.8
-Date:   4/21/92
-Who:cpearce@morticia.cnns.unt.edu
-Author: Unknown
-Title:  None
-Riddle:
+*Memories*
 
+### 5
 A cloth poorly dyed
 And an early morning sky
 How are they the same?
 
-Entry:  1.9
-Date:   4/21/92
-Who:cpearce@morticia.cnns.unt.edu
-Author: Matt Morris
-Title:  None
-Riddle:
+*Their color changes*
 
+### 6
 It occurs once in every minute
 Twice in every moment
 And yet never in one hundred thousand years.
 
-Entry:  1.10
-Date:   4/21/92
-Who:cpearce@morticia.cnns.unt.edu
-Author: Matt Morris
-Title:  None
-Riddle:
+*The letter M*
 
-My first wears my second; my third might be
-What my first would acquire if he went to the sea.
-Put together my one, two, three
-And the belle of New York is the girl for me.
- 
-
-Entry:  1.11
-Date:   4/21/92
-Who:cpearce@morticia.cnns.unt.edu
-Author: Phil Weaver
-Title:  None
-Riddle:
-
+### 7
 Never ahead, ever behind,
 Yet flying swiftly past;
 For a child I last forever,
 For adults I'm gone too fast.
 
-Entry:  2.1
-Date:   Wed Apr  8 12:49:46 1992
-Who:dschoen@cs.vu.nl
-Author: Unknown
-Title:  None
-Riddle:
+*Childhood*
 
+### 8 
 Two horses, swiftest travelling,
 Harnessed in a pair, and
 Grazing ever in places
 Distant from them.
 
-Entry:  3.1
-Date:   Unknown
-Who:The Shadowraiker
-Author: Unknown
-Title:  None
-Riddle:
+*Eyes/eyelids or sun & moon*
 
+### 9 
 It can be said:
 To be gold is to be good;
 To be stone is to be nothing;
 To be glass is to be fragile;
 To be cold is to be cruel.
 Unmetaphored, what am I?
+
+*A heart*
 
 Entry:  4.1
 Date:   Unknown
