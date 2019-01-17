@@ -1,4 +1,4 @@
-#### Room 1: Entryway to Under-Penthill
+#### Room 1: 
 
 The party will make their way to the nearest entrance,
 which appears to be a slide down into the mountain. The
