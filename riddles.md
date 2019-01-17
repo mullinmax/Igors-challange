@@ -1,8 +1,7 @@
-### 1
+### 1:
 You eat something you neither plant nor plow.
 It is the son of water, but if water touches it, it dies.
-
-*Salt/ice*
+`Salt/ice`
 
 ### 2
 My tines are long.  My tines are short. My tines end ere. My first report.
@@ -58,20 +57,12 @@ To be cold is to be cruel.
 Unmetaphored, what am I?
 
 *A heart*
-
-Entry:  4.1
-Date:   Unknown
-Who:2390carrolld.vms.csd.mu.edu
-Author: TSR Inc. Module S2:White Plume
-Mountain by Lawrence Schick
-Title:  None
-Riddle:
-
+### 10
 Round she is, yet flat as a board
 Altar of the Lupine Lords.
 Jewel on black velvet, pearl in the sea
 Unchanged but e'erchanging, eternally.
- 
+ *The moon*
 
 Entry:  5.1
 Date:   Unknown
