@@ -1,3 +1,33 @@
+#### The Drunken Albatross
+theres a commotion coming from the tavern which can be heard from a ways away. A poster on the front of The Drunken Albatross says 
+"the competition will begin here in front of the tavern tomorrow at noon".
+
+There is barely room to walk around all the other adventurers who have come to participate in the challenge. 
+People of all races and backgrounds fill the tavern.
+The one serving boy, can barely keep up with demand. There's gambling at some of the tables. 
+In the far corner there is a group of gnomes, who are playing darts. 
+>the Forgehand apprentices Pavel, Vassily, and Katarina
+
+At the far end of the bar is seated figure in a dark cloak, and everyone is giving it a wide berth. 
+
+> Anyone who actually touches the figure will realize that it is a broomstick draped
+in a black cloak. If the party has spent any time attempting
+to interact with the broomstick, the entire tavern will erupt
+into laughter as soon as the deception is uncovered, and the
+gnomes playing darts in the corner will put another tally on
+the wall, which is now up to 11. The gnomes will invite the party over if they fall for the
+trick and are willing to chat. They played some role in the
+creation of the dungeon and are happy to drop a few hints.`
+`The dungeon is non-lethal, but full of traps and tricks to
+eliminate contestants. They have met Igor and are familiar
+with him, though not very knowledgeable. They will
+confirm any information from the History check in the
+About Igor section above, and add that Igor is also a
+master illusionist.
+The party can also find this information
+by interacting with other groups Charisma (Persuasion) check DC 13. 
+The room is abuzz with news that the legendary hero Testicles is coming
+
 #### Room 1: 
 
 The party will make their way to the nearest entrance,
