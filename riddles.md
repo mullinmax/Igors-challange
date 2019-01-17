@@ -1,52 +1,45 @@
-### 1:
+### 1
 You eat something you neither plant nor plow.
 It is the son of water, but if water touches it, it dies.
 `Salt/ice`
 
 ### 2
 My tines are long.  My tines are short. My tines end ere. My first report.
-
-*Lightning Bolt*
+`Lightning Bolt`
 
 ### 3
 Turn us on our backs. And open up our stomachs. You will be the wisest of men. Though at start a lummox.
-
-*Books*
+`Books`
 
 ### 4
 Bury it deep, Pile on stones. Yet I will Dig up the bones.
-
-*Memories*
+`Memories`
 
 ### 5
 A cloth poorly dyed
 And an early morning sky
 How are they the same?
-
-*Their color changes*
+`Their color changes`
 
 ### 6
 It occurs once in every minute
 Twice in every moment
 And yet never in one hundred thousand years.
-
-*The letter M*
+`The letter M`
 
 ### 7
 Never ahead, ever behind,
 Yet flying swiftly past;
 For a child I last forever,
 For adults I'm gone too fast.
-
-*Childhood*
+`Childhood`
 
 ### 8 
 Two horses, swiftest travelling,
 Harnessed in a pair, and
 Grazing ever in places
 Distant from them.
-
-*Eyes/eyelids or sun & moon*
+`Eyes/eyelids or sun & moon`
 
 ### 9 
 It can be said:
@@ -55,387 +48,115 @@ To be stone is to be nothing;
 To be glass is to be fragile;
 To be cold is to be cruel.
 Unmetaphored, what am I?
+`A heart`
 
-*A heart*
 ### 10
 Round she is, yet flat as a board
 Altar of the Lupine Lords.
 Jewel on black velvet, pearl in the sea
 Unchanged but e'erchanging, eternally.
- *The moon*
+`The moon`
 
-Entry:  5.1
-Date:   Unknown
-Who:KM42%MARISTB.BITNET@uga.cc.uga.edu
-Author: KM42000 (?)
-Title:  None
-Riddle:
-
+### 11
 Twice four and twenty blackbirds
 sitting in the rain
 I shot and killed a quarter of them
 How many do remain?
+`(2*(4+20))/4=12 or ((2*4)+20)/4=7`
 
-Entry:  6.1
-Date:   Unknown
-Who:v892079%SI.HHS.NL@uga.cc.uga.edu
-Author: Gentevoort (?)
-Title:  None
-Riddle:
-
-first will be last
-last will be first
-and all in between will also be cursed
-open the door and the thing will be there
-so be carefull and beware!
-
-Entry:  7.1
-Date:   Unknown
-Who:gusar@uniwa.uwa.oz.au
-Author: Sean (?)
-Title:  None
-Riddle:
-
+### 12
 It has a golden head
 It has a golden tail
 but it hasn't got a body.
+`A golden coin`
 
-Entry:  7.2
-Date:   Unknown
-Who:gusar@uniwa.uwa.oz.au
-Author: Sean (?)
-Title:  None
-Riddle:
-
-Speak, friend, and enter!
- 
-
-Entry:  8.1
-Date:   Unknown
-Who:BILLERMA%XAVIER.BITNET@uga.cc.uga.edu
-Author: Unknown
-Title:  None
-Riddle:
-
+### 13
 A leathery snake,
 With a stinging bite,
 I'll stay coiled up,
 Unless I must fight.
+`A whip`
 
-Entry:  9.1
-Date:   1 May 92 16:10:35 GMT
-Who:mollems@wkuvx1.bitnet
-Author: Coleridge
-Title:  None
-Riddle:
-
-There is not wind enough to twirl
-That one red leaf, nearest of its clan,
-Which dances as often as dance it can.
-
-Entry:  9.2
-Date:   1 May 92 16:10:35 GMT
-Who:mollems@wkuvx1.bitnet
-Author: Longfellow
-Title:  None
-Riddle:
-
-Half-way up the hill, I see thee at last
-Lying beneath me with thy sounds and sights --
-A city in the twilight, gleaming and vast,
-With smoking roofs, soft bells, and gleaming lights.
-
-Entry:  9.3
-Date:   1 May 92 16:10:35 GMT
-Who:mollems@wkuvx1.bitnet
-Author: Dickinson
-Title:  None
-Riddle:
-
-I am, in truth, a yellow fork
-From tables in the sky
-By inadventant fingers dropped
-The awful cutlery.
-Of mansions never quite disclosed
-And never quite concealed,
-The apparatus of the dark
-To ignorance revealed.
- 
-
-Entry:  9.4
-Date:   1 May 92 16:10:35 GMT
-Who:mollems@wkuvx1.bitnet
-Author:John Updike
-Notes:Leave the last 2 lines off to make the riddle harder
-Title:  None
-Riddle:
-
-Many-maned scud-thumper,
-Maker of worn wood,
-Shrub-ruster,
-Sky-mocker,
-Rave!
-Portly pusher,
-Wind-slave.
-
-Entry:  9.5
-Date:   1 May 92 16:10:35 GMT
-Who:mollems@wkuvx1.bitnet
-Author:Shelley
-Title:  None
-Riddle:
-
-Make me thy lyre, even as the forests are.
-What if my leaves fell like its own --
-The tumult of thy mighty harmonies
-Will take from both a deep autumnal tone.
-
-Entry:  9.6
-Date:   1 May 92 16:10:35 GMT
-Who:mollems@wkuvx1.bitnet
-Author:G.Manley Hopkins
-Title:  None
-Riddle:
-
-This darksome burn, horseback brown,
-His rollock highroad roaring down,
-In coop and in comb the fleece of his foam
-Flutes and low to the body falls home.
-
-Entry:  9.7
-Date:   1 May 92 16:10:35 GMT
-Who:mollems@wkuvx1.bitnet
-Author:Shakespeare
-Title:  None
-Riddle:
-
-I've measured it from side to side,
-'Tis three feet long and two feet wide.
-It is of compass small, and bare
-To thirsty suns and parching air.
- 
-
-Entry:  9.8
-Date:   1 May 92 16:10:35 GMT
-Who:mollems@wkuvx1.bitnet
-Author:Sir Edmund Gosse
-Title:  None
-Riddle:
-
-My love, when I gaze on thy beautiful face,
-Careering along, yet always in place,
-The thought has often come into my mind
-If I ever shall see thy glorious behind.
-
-Entry:  9.9
-Date:   1 May 92 16:10:35 GMT
-Who:mollems@wkuvx1.bitnet
-Author:Francis Saltus Saltus
-Title:  None
-Riddle:
-
-Then all thy feculent majesty recalls
-The nauseuous mustiness of forsaken bowers,
-The leprous nudity of deserted halls --
-The positive nastiness of sullied flowers.
-And I mark the colours, yellow and black,
-The fresco thy lithe, dictatorial thighs.
-
-Entry:  10.1
-Date:   Unknown
-Who:The Riddle Manual
-Author: J.R.R. Tolkien (The Hobbit)
-Title:  None
-Riddle:
-
+### 14
 What has roots as nobody sees,
 Is taller than trees,
 Up, up it goes,
 And yet never grows?
+`A moutain`
 
-Entry:  10.2
-Date:   Unknown
-Who:The Riddle Manual
-Author: J.R.R. Tolkien (The Hobbit)
-Title:  None
-Riddle:
-
+### 15
 Thirty white horses on a red hill,
 First they champ,
 Then they stamp,
 Then they stand still.
- 
+`Your teeth`
 
-Entry:  10.3
-Date:   Unknown
-Who:The Riddle Manual
-Author: J.R.R. Tolkien (The Hobbit)
-Title:  None
-Riddle:
-
+### 16
 Voiceless it cries,
 Wingless it flutters,
 Toothless bites,
 Mouthless mutters.
+`The wind`
 
-Entry:  10.4
-Date:   Unknown
-Who:The Riddle Manual
-Author: J.R.R. Tolkien (The Hobbit)
-Title:  None
-Riddle:
-
-An eye in a blue face
-Saw an eye in a green face.
-"That eye is like to this eye"
-Said the first eye,
-"But in low place,
-Not in high place."
-
-Entry:  10.5
-Date:   Unknown
-Who:The Riddle Manual
-Author: J.R.R. Tolkien (The Hobbit)
-Title:  None
-Riddle:
-
+### 17
 It cannot be seen, cannot be felt,
 Cannot be heard, cannot be smelt.
 It lies behind stars and under hills,
 And empty holes it fills.
 It comes first and follows after,
 Ends life, kills laughter.
+`Darkness`
 
-Entry:  10.6
-Date:   Unknown
-Who:The Riddle Manual
-Author: J.R.R. Tolkien (The Hobbit)
-Title:  None
-Riddle:
-
+### 18
 A box without hinges, key, or lid,
 Yet golden treasure inside is hid.
- 
+`An egg`
 
-Entry:  10.7
-Date:   Unknown
-Who:The Riddle Manual
-Author: J.R.R. Tolkien (The Hobbit)
-Title:  None
-Riddle:
-
+### 19
 Alive without breath,
 As cold as death;
 Never thirsty, ever drinking,
 All in mail never clinking.
+`A fish`
 
-Entry:  10.8
-Date:   Unknown
-Who:The Riddle Manual
-Author: J.R.R. Tolkien (The Hobbit)
-Title:  None
-Riddle:
-
+### 20
 This thing all things devours:
 Birds, beast,trees, flowers;
 Gnaws iron, bites steel;
 Grinds hard stones to meal;
 Slays king, ruins town,
 And beats high mountain down.
+`Time`
 
-Entry:  10.9
-Date:   Unknown
-Who:The Riddle Manual
-Author: From the SSI Computer Game "Secret of the Silver Blades"
-Title:  None
-Riddle:
-
+### 21
 You feel it, but never see it and never will.
+`Your heart`
 
-Entry:  10.10
-Date:   Unknown
-Who:The Riddle Manual
-Author: From the SSI Computer Game "Secret of the Silver Blades"
-Title:  None
-Riddle:
-
+### 22
 You must keep it after giving it.
+`Your word`
 
-Entry:  10.11
-Date:   Unknown
-Who:The Riddle Manual
-Author: From the SSI Computer Game "Secret of the Silver Blades"
-Title:  None
-Riddle:
-
+### 23
 As light as a feather, but you can't hold it for ten minutes.
- 
+`Your breath`
 
-Entry:  10.12
-Date:   Unknown
-Who:The Riddle Manual
-Author: From the SSI Computer Game "Secret of the Silver Blades"
-Title:  None
-Riddle:
-
+### 24
 Has a mouth but does not speak, has a bed but never sleeps.
+`A river`
 
-Entry:  10.13
-Date:   Unknown
-Who:The Riddle Manual
-Author: From the SSI Computer Game "Secret of the Silver Blades"
-Title:  None
-Riddle:
-
+### 25
 Runs smoother than any rhyme, loves to fall but cannot climb!
+`Water`
 
-Entry:  10.14
-Date:   Unknown
-Who:The Riddle Manual
-Author: From the SSI Computer Game "Secret of the Silver Blades"
-Title:  None
-Riddle:
-
+### 26
 You break it even if you name it!
+`Silence`
 
-Entry:  10.15
-Date:   Unknown
-Who:The Riddle Manual
-Author: From the SSI Computer Game "Secret of the Silver Blades"
-Title:  None
-Riddle:
-
-It passes before the sun and makes no shadow.
-
-Entry:  10.16
-Date:   Unknown
-Who:The Riddle Manual
-Author: From the SSI Computer Game "Secret of the Silver Blades"
-Title:  None
-Riddle: 
-
+### 27
 You feed it, it lives, you give it something to drink, it dies.
- 
+`fire`
 
-Entry:  10.17
-Date:   Unknown
-Who:The Riddle Manual
-Author: Unknown
-Title:  None
-Riddle:
-
-A red drum which sounds
-Without being touched,
-And grows silent,
-When it is touched.
-
-Entry:  10.18
-Date:   Unknown
-Who:The Riddle Manual
-Author: Unknown
-Title:  None
-Riddle:
-
+### 28
 A harvest sown and reaped on the same day
 In an unplowed field,
 Which increases without growing,
@@ -443,106 +164,61 @@ Remains whole though it is eaten
 Within and without,
 Is useless and yet
 The staple of nations.
+`War`
 
-Entry:  10.19
-Date:   Unknown
-Who:The Riddle Manual
-Author: Unknown
-Title:  None
-Riddle:
-
-If you break me
-I do not stop working,
-If you touch me
-I may be snared,
+### 29
 If you lose me
 Nothing will matter.
+`Hope`
 
-Entry:  10.20
-Date:   Unknown
-Who:The Riddle Manual
-Author: Unknown
-Title:  None
-Riddle:
-
+### 30
 All about, but cannot be seen,
 Can be captured, cannot be held
 No throat, but can be heard.
- 
+`sound`
 
-Entry:  10.21
-Date:   Unknown
-Who:The Riddle Manual
-Author: Unknown
-Title:  None
-Riddle:
-
+### 31
 I go around in circles,
 But always straight ahead
 Never complain,
 No matter where I am led.
+`A wheel`
 
-Entry:  10.22
-Date:   Unknown
-Who:The Riddle Manual
-Author: Unknown
-Title:  None
-Riddle:
-
+### 32
 Lighter than what
 I am made of,
 More of me is hidden
 Than is seen.
+`An iceberg`
 
-Entry:  10.23
-Date:   Unknown
-Who:The Riddle Manual
-Author: Unknown
-Title:  None
-Riddle:
-
+### 33
 If a man carried my burden,
 He would break his back.
 I am not rich,
 But leave silver in my track.
+`A snail`
 
-Entry:  10.24
-Date:   Unknown
-Who:The Riddle Manual
-Author: Unknown
-Title:  None
-Riddle:
-
+### 34
 My life can be measured in hours,
 I serve by being devoured.
 Thin, I am quick
 Fat, I am slow
 Wind is my foe.
- 
+`A candle`
 
-Entry:  10.25
-Date:   Unknown
-Who:The Riddle Manual
-Author: Unknown
-Title:  None
-Riddle:
-
+### 35
 Weight in my belly,
 Trees on my back,
 Nails in my ribs,
 Feet I do lack.
+`Cave or boat`
 
-Entry:  10.26
-Date:   Unknown
-Who:The Riddle Manual
-Author: Unknown
-Title:  None
-Riddle:
-
+### 36
 You can see nothing else
 When you look in my face
 I will look you in the eye
 And I will never lie.
+`A mirror`
 
 Entry:  10.27
 Date:   Unknown
