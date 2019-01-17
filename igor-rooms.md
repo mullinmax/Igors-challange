@@ -44,7 +44,7 @@ Strength (Athletics) check DC 10 to pull them out before
 they are pulled into the teleporter.
 At the end is an unlocked door leading to a T intersection
 with an alcove at the apex containing one Potion of
-Climbing. Left leads to Room 7, while right leads to Room
+Climbing. Left leads to Room 7, while right leads to Room 8
 
 #### Room 4
 
@@ -58,8 +58,8 @@ character can hold the bridge in place for another to cross
 with a Strength (Athletics) check DC 12 as well.
 Upon opening the door, there is a T intersection with an
 alcove at the apex containing one Potion of Animal
-Friendship. Left leads to Room 9, while right leads to Room
-10.
+Friendship. Left leads to Room 9, while right leads to Room 10.
+
 #### Room 5
 
 The room is dark until the players cross the threshold of
@@ -565,10 +565,10 @@ a best of five challenge in order to open the door.
 Pick 5d6. The dice faces must use Pips, not numbers.
 Ideally the dice will be of three different colors. Roll them
 in front of the players to let them puzzle it out.
-*The answer is that you only count the dice which roll 5
+_The answer is that you only count the dice which roll 5
 and 3: each 5 is worth four points, and each 3 is worth two.
 This is because those faces have pips on the edge (petals)
-around a central pip (the rose).*
+around a central pip (the rose)._
 If your players are having a lot of difficulty with this
 puzzle, ask one or more to roll a Wisdom (Insight) check
 DC 10 and remind them that so far everything in this
@@ -580,7 +580,9 @@ Once they solve the puzzle, the final door opens and
 leads to a short corridor. Ahead they see what is clearly a
 reception room with an old gnome seated by a medium
 sized box.
+
 #### The Prize
+
 Igor Larionov introduces himself and congratulates them
 on their accomplishment, confirming that they are the first
 adventurers to complete the dungeon. When describing the
