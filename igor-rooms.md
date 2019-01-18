@@ -1,3 +1,4 @@
+team turgle
 #### The Drunken Albatross
 theres a commotion coming from the tavern which can be heard from a ways away. A poster on the front of The Drunken Albatross says 
 "the competition will begin here in front of the tavern tomorrow at noon".
