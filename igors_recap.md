@@ -31,3 +31,4 @@ I wish you all the best of luck.
 
 whits win, wimps wither.
 
+[wand table](https://chartopia.d12dev.com/en/chart/5525/)

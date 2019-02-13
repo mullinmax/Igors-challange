@@ -80,7 +80,9 @@ on each path there's a large stone with a number 0 through 10
 
 #### Room 6-6
 
+A large purple felt chair with elaborate carvings of rams for arms sits dead center of a square room. There are four copper pipes comming up from each of the corners of the room connecting over the chair in an upside down funnel shape.
 
+`Wait until players do something that makes some sense. Then floor lowers in front of chair to create steps the party can walk down.`
 
 #### Room 7
 
@@ -187,11 +189,12 @@ little round a little straight, the picture is clear but we love
 to obfuscate." On the fourth is "Flip me by night, flip me by
 day, will it help, who can say?" On the back wall by the
 entrance is a table with three items on it; a coin, a pillow,
-and a puzzle piece. There are not enough items to go into
+and a puzzle piece. 
+`There are not enough items to go into
 the four pedestals. Ripping any in half does not help, nor
 does providing your own items. The trick is that the far
 door only looks locked when in fact it is not. They can walk
-right through the room.
+right through the room.`
 Upon opening the door, there is an alcove containing one
 Immovable Rod. The passage leads forward to Room 24.
 
@@ -537,7 +540,10 @@ correspond to which dragons.
 
 
 
+#### Bog of eternal stench
 
+With a splash you land in a putrid green expanse of marsh. The scent of rot and decay saturates your nose and you can feel it leeching into your skin. 
+A few sparse trees with drooping withered branches dot the landscape.  
 
 
 
