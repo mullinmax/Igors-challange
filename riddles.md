@@ -1,33 +1,40 @@
 ### 1
+##### Solved
 You eat something you neither plant nor plow.
 It is the son of water, but if water touches it, it dies.
 `Salt/ice`
 
 ### 2
+##### Solved
 My tines are long.  My tines are short. My tines end ere. My first report.
 `Lightning Bolt`
 
 ### 3
+##### Solved
 Turn us on our backs. And open up our stomachs. You will be the wisest of men. Though at start a lummox.
 `Books`
 
 ### 4
+##### Solved
 Bury it deep, Pile on stones. Yet I will Dig up the bones.
 `Memories`
 
 ### 5
+##### Solved
 A cloth poorly dyed
 And an early morning sky
 How are they the same?
 `Their color changes`
 
 ### 6
+##### Solved
 It occurs once in every minute
 Twice in every moment
 And yet never in one hundred thousand years.
 `The letter M`
 
 ### 7
+##### Solved
 Never ahead, ever behind,
 Yet flying swiftly past;
 For a child I last forever,

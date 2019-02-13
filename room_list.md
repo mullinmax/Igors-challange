@@ -1,52 +1,5 @@
-team turgle
-#### The Drunken Albatross
-theres a commotion coming from the tavern which can be heard from a ways away. A poster on the front of The Drunken Albatross says 
-"the competition will begin here in front of the tavern tomorrow at noon".
-
-There is barely room to walk around all the other adventurers who have come to participate in the challenge. 
-People of all races and backgrounds fill the tavern.
-The one serving boy, can barely keep up with demand. There's gambling at some of the tables. 
-In the far corner there is a group of gnomes, who are playing darts. 
->the Forgehand apprentices Pavel, Vassily, and Katarina
-
-At the far end of the bar is seated figure in a dark cloak, and everyone is giving it a wide berth. 
-
-> Anyone who actually touches the figure will realize that it is a broomstick draped
-in a black cloak. If the party has spent any time attempting
-to interact with the broomstick, the entire tavern will erupt
-into laughter as soon as the deception is uncovered, and the
-gnomes playing darts in the corner will put another tally on
-the wall, which is now up to 11. The gnomes will invite the party over if they fall for the
-trick and are willing to chat. They played some role in the
-creation of the dungeon and are happy to drop a few hints.`
-`The dungeon is non-lethal, but full of traps and tricks to
-eliminate contestants. They have met Igor and are familiar
-with him, though not very knowledgeable. They will
-confirm any information from the History check in the
-About Igor section above, and add that Igor is also a
-master illusionist.
-The party can also find this information
-by interacting with other groups Charisma (Persuasion) check DC 13. 
-The room is abuzz with news that the legendary hero Testicles is coming
-
-#### Room 1: 
-
-The party will make their way to the nearest entrance,
-which appears to be a slide down into the mountain. The
-slide is spinning and rotating, and any look in will show
-that there are multiple slides down with very little way to
-determine which you head down. Each player who jumps in
-should roll a 1d6. Those who roll 1 or 2 go to Room 2, 3
-and 4 slide into Room 3, and 5 and 6 wind up in Room 4.
-Part of the mechanism which creates the rotation is
-visible and accessible at the top. A Strength (Athletics)
-check DC 10 can keep the slide motionless for as long as
-somebody is holding it so that the group can all go down
-the same slide... except for the person holding the
-mechanism still, who will have to jump in and roll.
-
 #### Room 2
-
+###### visited
 The room is a small, simple one consisting only of one door
 on the opposite end of the room which the player(s) slid
 into, and a circus-style strength test. The game is to pick up
@@ -65,7 +18,7 @@ alcove at the apex containing one Potion of Healing. Left
 leads to Room 5, while right leads to Room 6.
 
 #### Room 3
-
+###### visited
 The room is full of what appear to be mirrors, and is clearly
 a mirror maze. The group can navigate the maze with a
 Wisdom (Perception) check DC 12. If a player fails they run
@@ -77,22 +30,8 @@ At the end is an unlocked door leading to a T intersection
 with an alcove at the apex containing one Potion of
 Climbing. Left leads to Room 7, while right leads to Room 8
 
-#### Room 4
-
-This room opens up into a massive chasm in the mountain.
-A look down reveals that the chasm tapers off into a slide to
-the loser's room. The only bridge across is a narrow yet
-heavy plank of wood balanced on a pivot in the center of the
-chasm, essentially a massive seesaw. A Dexterity
-(Acrobatics) check of 12 is enough to cross the bridge. A
-character can hold the bridge in place for another to cross
-with a Strength (Athletics) check DC 12 as well.
-Upon opening the door, there is a T intersection with an
-alcove at the apex containing one Potion of Animal
-Friendship. Left leads to Room 9, while right leads to Room 10.
-
 #### Room 5
-
+###### visited
 The room is dark until the players cross the threshold of
 the arch into the room. Upon entry, pounding techno music
 begins, mannequins will make their way in patterns around
@@ -124,6 +63,25 @@ Upon opening the door on the other side of the swamp,
 there is a T intersection with an alcove at the apex
 containing one Potion of Fire Resistance. Left leads to
 Room 13, while right leads to Room 14.
+
+#### Room 6-5
+
+the silverglades have beaten you to this room. They stand in the center of a large roughly circular area with 10 paths leading away into the darkness. 
+They apear to be pondering a puzzle.
+
+`The players can choose to fight or work with the silverglades, although the silverglades will do their best to cheat or lie to the party.`
+
+on the wall there's an inscription:
+*the path you must take is the number that can make 14 into 4, 5 into 0, 3 into 3, and 46 into 1*
+`Solution is 5, the puzzle is taking the mod 5 of every number `
+on each path there's a large stone with a number 0 through 10 
+
+`Taking the wrong path will result in that player triggering an acid ` [arrow trap](https://roll20.net/compendium/dnd5e/Acid%20Arrow#content)
+[https://roll20.net/compendium/dnd5e/Acid%20Arrow#content](https://roll20.net/compendium/dnd5e/Acid%20Arrow#content)
+
+#### Room 6-6
+
+
 
 #### Room 7
 
@@ -575,6 +533,38 @@ Your players can request to roll Intelligence (History or
 Religion) check DC 20 to recognize that that the murals
 depict legendary dragons and to know which colors
 correspond to which dragons.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Ending Rooms
 
 #### Room 33
 
