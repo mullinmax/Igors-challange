@@ -1,14 +1,17 @@
 ```mermaid
 graph TB;
-classDef hidden display:none;
+classDef hidden display:none,stroke:0px;
 classDef locked fill:#77F;
-classDef here fill:#D22;
 classDef visited fill:#4D2;
+classDef here fill:#D22;
 
 subgraph key
 key1[visited]
+class key1 visited;
 key2[you are here]
+class key2 here;
 key3[locked]
+class key3 locked;
 end
 
 r1[Entry]
@@ -30,25 +33,48 @@ r7-->|left|r9
 r7-->|right|r10
 r10-->r11
 r10[YMCA]
-r9-->r12
+class key1,r1,r3,r5,r7,r9,10 visited;
+class key3,r8,r6,r11 locked;
+
+r9[disco dance];
+class r9 here;
 click r9 "https://github.com/mullinmax/Igors-challange/blob/master/igor-rooms.md#room-5"
 
-r9-->r6_5
-class r6_5 here;
+r9-->r12%%[four bowls]
+%%class r12 visited;
+%%class r12 here;
+class r12 locked;
+click r12 "https://github.com/mullinmax/Igors-challange/blob/master/igor-rooms.md#room-12"
+
+r6_5%%[pick your path]
+%%class r6_5 visited;
+%%class r6_5 here;
 class r6_5 hidden;
-click r6_5 "https://github.com/mullinmax/Igors-challange/blob/master/igor-rooms.md#room-7"
+%%r6_5-->t
+%%r6_5-->t
+%%r6_5-->t
+%%r6_5-->t
+%%r6_5-->t
+%%r6_5-->t
+%%r6_5-->t
+%%r6_5-->t
+%%r6_5-->t
+%%r6_5-->t
+%%r6_5-->r6_6
+click r6_5 "https://github.com/mullinmax/Igors-challange/blob/master/igor-rooms.md#room-6_5"
 
-
-class key1,r1,r3,r5,r7,r9,10 visited;
-class key2,r9 here;
-class key3,r8,r6,r11,r12 locked;
-class r12 hidden;
+6_5%%[seated stairs]
+%%class r6_6 visited;
+%%class r6_6 here;
+%%class r6_6 locked;
+class r6_6 hidden;
+click r6_6 "https://github.com/mullinmax/Igors-challange/blob/master/igor-rooms.md#room-6_6"
 ```
 
 
-
 rn
-class rn visited;
-class rn here;
+%%class rn visited;
+%%class rn here;
+%%class rn locked;
 class rn hidden;
 click rn "https://github.com/mullinmax/Igors-challange/blob/master/igor-rooms.md#room-7"
