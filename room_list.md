@@ -76,8 +76,7 @@ on the wall there's an inscription:
 `Solution is 5, the puzzle is taking the mod 5 of every number `
 on each path there's a large stone with a number 0 through 10 
 
-`Taking the wrong path will result in that player triggering an acid ` [arrow trap](https://roll20.net/compendium/dnd5e/Acid%20Arrow#content)
-[https://roll20.net/compendium/dnd5e/Acid%20Arrow#content](https://roll20.net/compendium/dnd5e/Acid%20Arrow#content)
+`Taking the wrong path will result in that player triggering an acid ` [`arrow trap`](https://roll20.net/compendium/dnd5e/Acid%20Arrow#content)
 
 #### Room 6-6
 
